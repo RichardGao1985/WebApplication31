@@ -7,5 +7,7 @@ namespace WebApplication31.Controllers
 {
     public class Class1
     {
+
+        int i = 3;
     }
 }
